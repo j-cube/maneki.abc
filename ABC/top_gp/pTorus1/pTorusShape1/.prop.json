@@ -1,1 +1,0 @@
-{"name":"","kind":"CompoundProperty","index":0,"typename":"UNKNOWN","extent":0,"type":"UNKNOWN","num_properties":1,"properties":[".geom"],"info":{"isScalarLike":false,"isHomogenous":true,"timeSamplingIndex":0,"numSamples":0,"firstChangedIndex":0,"lastChangedIndex":0,"metadata":"schema=AbcGeom_SubD_v1;schemaBaseType=AbcGeom_GeomBase_v1;schemaObjTitle=AbcGeom_SubD_v1:.geom"}}

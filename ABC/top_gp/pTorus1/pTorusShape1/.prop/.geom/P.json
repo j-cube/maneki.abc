@@ -1,1 +1,0 @@
-{"name":"P","kind":"ArrayProperty","typename":"float32_t","extent":3,"type":"float32_t[3]","num_samples":1,"info":{"isScalarLike":false,"isHomogenous":false,"timeSamplingIndex":0,"numSamples":1,"firstChangedIndex":0,"lastChangedIndex":0,"metadata":"geoScope=vtx;interpretation=point"}}
