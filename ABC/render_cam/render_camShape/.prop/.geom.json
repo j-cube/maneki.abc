@@ -1,0 +1,1 @@
+{"name":".geom","kind":"CompoundProperty","index":0,"typename":"UNKNOWN","extent":0,"type":"UNKNOWN","num_properties":3,"properties":[".core",".filmBackOps",".filmBackChannels"],"info":{"isScalarLike":false,"isHomogenous":true,"timeSamplingIndex":0,"numSamples":0,"firstChangedIndex":0,"lastChangedIndex":0,"metadata":"schema=AbcGeom_Camera_v1"}}
