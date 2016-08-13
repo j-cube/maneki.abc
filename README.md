@@ -4,20 +4,12 @@
 
 The `maneki.abc` [Multiverse](http://multi-verse-io) Alembic 3D model.
 
-This 3D model is written using the Multiverse `Git` back-end, several important
-iteration of its modeling design are included in the asset, see the commit
-history of the model on the
-[network](https://github.com/j-cube/maneki.abc/network)
+This 3D model is written using the Multiverse `Git` back-end, several important iteration of its modeling design are included in the asset, see the commit history of the model on the [network](https://github.com/j-cube/maneki.abc/network).
 
-**Maneki** is named after our mascot _“Maneki Neko” (招き猫)_, literally the
-beckoning cat: with his welcoming pose and cuteness (かわいい) we invite you to
-try our rendering technology at [http://maneki.sh](http://maneki.sh) which is
-used for [BLAME!](http://www.blame.jp) movie adaptation.
+**Maneki** is named after our mascot _“Maneki Neko” (招き猫)_, literally the beckoning cat: with his welcoming pose and cuteness (かわいい) we invite you to try our rendering technology at [http://maneki.sh](http://maneki.sh) which is used for [BLAME!](http://www.blame.jp) movie adaptation.
 
-If you'd like to say `"Hello, Maneki!"` you can find him chilling on → <span><a
-href="https://twitter.com/manekiverse"><img
-src="https://abs.twimg.com/a/1470279950/img/t1/favicon.svg"
-width="16"></a></span> Twitter [@manekiverse](https://twitter.com/manekiverse)
+If you'd like to say `"Hello, Maneki!"` you can find him chilling on → <span><a href="https://twitter.com/manekiverse"><img
+src="https://abs.twimg.com/a/1470279950/img/t1/favicon.svg" width="16"></a></span> Twitter [@manekiverse](https://twitter.com/manekiverse)
 
 ## How to use 
 
@@ -36,11 +28,8 @@ width="16"></a></span> Twitter [@manekiverse](https://twitter.com/manekiverse)
          [releases](https://github.com/j-cube/maneki.abc/releases) page of
          this GitHub project.
 
-If you make nice images with the Maneki 3D model, do let him know,
-send a tweet to @manekiverse
-<span><a href="https://twitter.com/manekiverse">
-<img src="https://abs.twimg.com/a/1470279950/img/t1/favicon.svg"
-width="16"></a></span> [@manekiverse](https://twitter.com/manekiverse)
+If you make nice images with the Maneki 3D model, do let him know, send a tweet to @manekiverse
+<span><a href="https://twitter.com/manekiverse"><img src="https://abs.twimg.com/a/1470279950/img/t1/favicon.svg" width="16"></a></span> [@manekiverse](https://twitter.com/manekiverse)
 
 
 ## LICENSE
