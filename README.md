@@ -28,7 +28,7 @@ src="https://abs.twimg.com/a/1470279950/img/t1/favicon.svg" width="16"></a></spa
          [releases](https://github.com/j-cube/maneki.abc/releases) page of
          this GitHub project.
 
-If you make nice images with the Maneki 3D model, do let him know, send a tweet to @manekiverse
+If you make nice images with the Maneki 3D model, do let him know, send a tweet to 
 <span><a href="https://twitter.com/manekiverse"><img src="https://abs.twimg.com/a/1470279950/img/t1/favicon.svg" width="16"></a></span> [@manekiverse](https://twitter.com/manekiverse)
 
 
