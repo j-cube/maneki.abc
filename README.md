@@ -51,7 +51,7 @@ CC BY-NC-SA 4.0 License Excerpt:
 > material, you must distribute your contributions under the same license as the
 > original).
 
-[Full License Text](href="http://creativecommons.org/licenses/by-nc-sa/4.0/")
+[Full License Text](href="http://creativecommons.org/licenses/by-nc-sa/4.0)
 
 ## COPYRIGHTS
 
