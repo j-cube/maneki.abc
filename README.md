@@ -1,8 +1,10 @@
 <a href="#"><img src="https://pbs.twimg.com/profile_images/747231052444241920/03MurYeH_400x400.jpg" width="48"></a>
 
-# maneki.abc The `maneki.abc` [Multiverse](http://multi-verse-io) Alembic 3D model.
+# maneki.abc
 
-The model is written using the Multiverse `Git` back-end, several important
+The `maneki.abc` [Multiverse](http://multi-verse-io) Alembic 3D model.
+
+This 3D model is written using the Multiverse `Git` back-end, several important
 iteration of its modeling design are included in the asset, see the commit
 history of the model on the
 [network](https://github.com/j-cube/maneki.abc/network)
@@ -70,6 +72,6 @@ The <span><a href="#"><img src="https://pbs.twimg.com/profile_images/74723105244
 The original authors of the `maneki.abc` 3D model are:
 
 - [Jorge Adorni](mailto:jorgeadorni@gmail.com) (version 32, 31, 30, 28)
-- [Takeshi Watahiki](mailto:) (version 23, 16)
+- [Takeshi Watahiki](mailto:twatahiki0083@gmail.com) (version 23, 16)
 
 The original idea, look & feel for this project was conceived by [Paolo Berto](https://twitter.com/pberto).
