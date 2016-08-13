@@ -3,6 +3,7 @@
 # maneki.abc
 
 The `maneki.abc` [Multiverse](http://multi-verse-io) Alembic 3D model.
+Check out [http://maneki.sh](http://maneki.sh) for more informations.
 
 This 3D model is written using the Multiverse `Git` back-end, several important iteration of its modeling design are included in the asset, see the commit history of the model on the [network](https://github.com/j-cube/maneki.abc/network).
 
